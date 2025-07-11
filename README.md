@@ -35,4 +35,4 @@ Ran pretrained model inference on ZJU Mocap & People Snapshot datasets
 Resolved environment issues (Torch/CUDA/spconv) on Colab
 
 Rendered novel views using deformable neural mesh representations
-🔗 GitHub – Neural Body
+https://github.com/ppathi3/neuralbody
