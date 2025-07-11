@@ -22,3 +22,17 @@ This project explores a deep learning approach for reconstructing 3D human bodie
 - Neural field representations & deformable mesh modeling
 - Real-world ML reproducibility challenges
 - GPU compatibility and Torch versioning issues
+
+
+ Neural Body – Dynamic Human View Synthesis
+Stack: Python, PyTorch, CUDA, Google Colab, spconv
+Summary:
+Evaluated a deep learning system for 3D human visualization from sparse camera views using structured latent codes. Debugged compatibility issues and adapted the inference and rendering pipelines.
+Features:
+
+Ran pretrained model inference on ZJU Mocap & People Snapshot datasets
+
+Resolved environment issues (Torch/CUDA/spconv) on Colab
+
+Rendered novel views using deformable neural mesh representations
+🔗 GitHub – Neural Body
